@@ -5,3 +5,4 @@ FlowEngine-Manager
 * ### Manage Workflows
   * Start/Stop Workflow
   * Schedule Workflow
+  * Deploy/Undeploy Workflow
